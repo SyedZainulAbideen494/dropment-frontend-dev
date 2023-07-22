@@ -1,0 +1,171 @@
+@media (min-width: 312px) and (max-width: 480px){ 
+
+}
+@media (min-width: 481px) and (max-width: 768px) {
+
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+ 
+}
+
+@media (min-width: 1025px){
+
+}
+
+
+
+.temp4header header {
+  display: inline-flex;
+   background-image: url('../../home/header/images/Untitled\ design.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 1145px;
+  height: 700px;
+}
+
+.txtshopnametemp4 h1{
+    color: #d4a373;
+    font-weight: 900;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+
+.btnviewprods button {
+    margin-left: 510px;
+    padding: 2px 20px;
+    background-color: transparent;
+    color: black;
+    border-radius: 15px;
+    border: 2px solid white;
+}
+
+.items {
+    border: 2px solid #d4a373;
+    border-radius: 25px;
+    margin-top: 50px;
+}
+
+.ourprods h2 {
+    border: 1px solid #d4a373;
+    border-radius: 25px;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: #d4a373;
+}
+
+.productmodeltemp4 {
+    width: 250px;
+    height: 340px;
+    border: 2px solid #606c38;
+    border-radius: 25px;
+    margin-left: 10px;
+    margin-bottom: 60px;
+    margin-right: 10px;
+}
+
+.productmodeltemp4 img {
+    width: 220px;
+    height: 150px;
+    margin-top: 2px;
+    margin-left: 15px;
+    margin-right: 40px;
+    border-radius: 25px;
+}
+
+.product__titletemp4 h2 {
+    color: #606c38;
+}
+
+.product__amounttemp4 h3 {
+    color: #283618;
+}
+
+.slaestxt h2 {
+    margin-left: 500px;
+    color: rgb(2, 0, 0);
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.aboutuspg1 {
+    background-image: url('../../home/header/images/Udesign.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 1145px;
+  height: 400px;
+  border-radius: 25px;
+  margin-top: 40px;
+}
+
+.txttem1is4 h1 {
+    color: white;
+    margin-left: 400px;
+}
+
+.btnfortemp1is4 button {
+    margin-left: 500px;
+    padding: 16px 45px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    border-radius: 15px;
+}
+
+.aboutuspg2 {
+    background-image: url('../../home/header/images/1u.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 1145px;
+  height: 400px;
+  border-radius: 25px;
+  margin-top: 40px;
+}
+
+.checklist span {
+    display: inline-flex;
+}
+
+.checklist {
+    background-color: black;
+    margin-top: 40px;
+    border-radius: 15px;
+}
+
+.key1 {
+    width: 300px;
+    height: 200px;
+    border: 1px solid white;
+    border-radius: 25px;
+    margin: 30px;
+}
+
+.key1 h2 {
+    color: white;
+}
+.key1 p {
+    color: white;
+}
+
+.contactpg {
+    background-color: black;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.contactpg h3 {
+    color: white;
+    text-align: center;
+}
+
+.contactpg span {
+    color: white;
+    margin-left: 50px;
+}
